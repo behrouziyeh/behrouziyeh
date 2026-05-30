@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with nothing :)
 - 💬 Ask me about Front-end Development
 - 📫 How to reach me: nowhere
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I use [P]arch linux, btw
